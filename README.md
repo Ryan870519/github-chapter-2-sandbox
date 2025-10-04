@@ -6,4 +6,4 @@ nothing
 
 ## Installation
 
-nothing to do here
+nothing
